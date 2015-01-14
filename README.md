@@ -1,4 +1,4 @@
-# tutoria14enero
+#  tutoria14enero
 Como usar el plugin de jQuery validate.   Uso del entorno de trabajo Yeoman para la realización de varios ejercicios relacionados con el plugin.
 
 1. Crea un formulario con los campos nombre, email, url y comentarios. Comprueba la validación de campos propia del navegador y desactívala posteriormente. Salvo la url el resto de campos son requeridos.
