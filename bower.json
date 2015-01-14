@@ -1,0 +1,7 @@
+{
+  "name": "tutoria14enero",
+  "private": true,
+  "dependencies": {
+    "jquery-validate": "~1.13.1"
+  }
+}
